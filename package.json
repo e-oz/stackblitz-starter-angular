@@ -32,9 +32,5 @@
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.40",
     "ts-node": "11.0.0-beta.1"
-  },
-  "overrides": {
-    "rxjs": "$rxjs",
-    "typescript": "$typescript"
   }
 }
