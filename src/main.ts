@@ -12,7 +12,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
   imports: [CommonModule],
   changeDetection: ChangeDetectionStrategy.OnPush,
   host: {
-    class: 'flex flex-col gap-4',
+    class: 'flex flex-col gap-4 p-4',
   },
   template: `
     <h1>Hello from {{ name }}!</h1>
